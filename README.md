@@ -45,7 +45,7 @@ issues are writen in the file:  List-Issues.Excel
 
 # What is displayed
 
-![alt text]( "Logo Title Text 1")
+![alt text]( https://github.com/guihen01/npm-jira-issuesXL/blob/main/Doc/Capture.GIF"Logo Title Text 1")
 
 #  Excel file 
 
