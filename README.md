@@ -49,5 +49,5 @@ issues are writen in the file:  List-Issues.Excel
 
 #  Excel file 
 
-![alt text]( "Logo Title Text 1")
+![alt text](https://github.com/guihen01/npm-jira-issuesXL/blob/main/Doc/Capture1.GIF "Logo Title Text 1")
 
