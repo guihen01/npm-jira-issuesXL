@@ -1,0 +1,20 @@
+{
+  "name": "jira-issuesxl",
+  "version": "1.0.0",
+  "description": "List all issues in a Jira project",
+  "main": "app.js",
+  "author": {
+    "name": "Henri Guillot"
+  },
+  "dependencies": {
+    "exceljs": "^4.2.1",
+    "node-fetch": "^2.6.1",
+    "prompt-sync": "^4.2.0"
+  },
+  "repository": "https://github.com/guihen01/npm-jira-issuesxl.git",
+  "keywords": [
+    "jira",
+    "rest api"
+  ],
+  "license": " GPL-2.0"
+}
