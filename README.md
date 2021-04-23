@@ -1,4 +1,4 @@
- 
+[![Build status](https://ci.appveyor.com/api/projects/status/7qvhtl180jao17fo?svg=true)](https://ci.appveyor.com/project/guihen01/npm-jira-issuesxl) 
 # jira-issuesXL
 
 get all issues from a given JIRA project and store the list of issues in a Excel file 
